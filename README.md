@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @satyarajp
+👋 Hi, I’m @satyarajp
 - 👀 I’m interested in ...
     - Elasticsearch , Springboot microservices architecture
     - REST, Headless CMS, MongoDB
