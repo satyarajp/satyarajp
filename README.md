@@ -6,10 +6,11 @@
 - 🌱 I’m currently learning ...
     - SpringBoot + Elasticsearchv7.11 integrations to upgrade a search service 
 - 💞️ I’m looking to collaborate on ...
-    - Open source headless CMS 
-    - SpringBoot microservice
+    - Open source headless CMS
+    - Elastic stack / Opensearch
+    - SpringBoot microservices
 - 📫 How to reach me ...
-    - srphaneendra@gmail.com 
+    - satyarajphaneendra@gmail.com
 
 <!---
 satyarajp/satyarajp is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
